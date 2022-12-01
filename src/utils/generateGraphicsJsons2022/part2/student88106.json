@@ -1,0 +1,5964 @@
+[
+{
+    "enrollment_id": "5596393",
+    "courses": [
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 13
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 8
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,4",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,7",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 14
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 2
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 7
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "9,9",
+            "course_id": 6
+        },
+        {
+            "name": "Produção Textual",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 2019
+        }
+    ],
+    "school_class_id": 244258,
+    "student_id": 430693,
+    "school_id": 934,
+    "shift_id": 4,
+    "year": 2021,
+    "school": "Ecit Jose Luiz Neto",
+    "administration_type": 0,
+    "grade_id": 16,
+    "grade": "3a. Série"
+},
+{
+    "enrollment_id": "1968810",
+    "courses": [
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 10
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 15
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 14
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 4
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 8
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "4,0",
+            "final_result": "5,7",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 11
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 80584,
+    "student_id": 442671,
+    "school_id": 919,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "CAIC Jose Jofilly",
+    "administration_type": 0,
+    "grade_id": 4,
+    "grade": "1o. Ano"
+},
+{
+    "enrollment_id": "3843984",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 6
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 688
+        }
+    ],
+    "school_class_id": 158249,
+    "student_id": 128693,
+    "school_id": 334,
+    "shift_id": 2,
+    "year": 2019,
+    "school": "EEEFM Poeta Carlos Drumond de Andrade",
+    "administration_type": 0,
+    "grade_id": 16,
+    "grade": "3a. Série"
+},
+{
+    "enrollment_id": "5230919",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 5
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 3
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 236222,
+    "student_id": 1538308,
+    "school_id": 1929,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "Escola Municipal Plácido de Almeida",
+    "administration_type": 1,
+    "grade_id": 6,
+    "grade": "3o. Ano"
+},
+{
+    "enrollment_id": "5520599",
+    "courses": [
+        {
+            "name": "Higiene e Segurança do Trabalho",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 306
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Introdução ao Projeto de Interiores",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2088
+        },
+        {
+            "name": "Desenho de Observação",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2040
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 11
+        },
+        {
+            "name": "Criatividade, Arte e Design",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 2036
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 3
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 14
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "3,6",
+            "course_id": 7
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 8
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 9
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 13
+        },
+        {
+            "name": "Informática Básica",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 61
+        },
+        {
+            "name": "Desenho Técnico",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 486
+        },
+        {
+            "name": "Materiais",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2095
+        },
+        {
+            "name": "Língua Estrangeira (Espanhol-Básico e Instrumental)",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 1545
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Estrangeira (Inglês-Básico e instrumental)",
+            "final_rating": "",
+            "final_result": "10,0",
+            "course_id": 1544
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 2
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 556
+        },
+        {
+            "name": "Estudo Orientado",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 738
+        }
+    ],
+    "school_class_id": 251651,
+    "student_id": 323375,
+    "school_id": 47,
+    "shift_id": 3,
+    "year": 2021,
+    "school": "Eci Papa Paulo Vi",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "3642345",
+    "courses": [
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 14
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 10
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 7
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 8
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 13
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 15
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 155929,
+    "student_id": 658340,
+    "school_id": 628,
+    "shift_id": 4,
+    "year": 2019,
+    "school": "Centro Profis Dep Antonio Cabral",
+    "administration_type": 0,
+    "grade_id": 39,
+    "grade": "Ciclo VI"
+},
+{
+    "enrollment_id": "2058680",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 7
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 14
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 4
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 13
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 8
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 6
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "3,0",
+            "final_result": "5,1",
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 79157,
+    "student_id": 416514,
+    "school_id": 1087,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "EEEF CAIC Dr Romero Abdon Q da Nobrega",
+    "administration_type": 0,
+    "grade_id": 4,
+    "grade": "1o. Ano"
+},
+{
+    "enrollment_id": "5565443",
+    "courses": [
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 12
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,7",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 257149,
+    "student_id": 1390948,
+    "school_id": 2743,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "Emef Professor Cicero Rabelo Nogueira",
+    "administration_type": 1,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "4110785",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "9,6",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "9,6",
+            "course_id": 10
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 5
+        }
+    ],
+    "school_class_id": 180384,
+    "student_id": 1594570,
+    "school_id": 4422,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "Emef Maria Jose Pinto de Lima",
+    "administration_type": 1,
+    "grade_id": 7,
+    "grade": "4o. Ano"
+},
+{
+    "enrollment_id": "3468795",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 3
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 15
+        },
+        {
+            "name": "Competências Socioemocionais",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 1494
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,2",
+            "course_id": 11
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 6
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 7
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 4
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 13
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "9,6",
+            "course_id": 9
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 8
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 14
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 688
+        },
+        {
+            "name": "Nivelamento Matemática",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 1487
+        }
+    ],
+    "school_class_id": 148609,
+    "student_id": 1391748,
+    "school_id": 1062,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "Eci EEFM Major Antonio de Aquino",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "2679965",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 5
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 12
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,4",
+            "course_id": 3
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,6",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "9,2",
+            "course_id": 15
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 10
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 115546,
+    "student_id": 1322281,
+    "school_id": 862,
+    "shift_id": 2,
+    "year": 2018,
+    "school": "EEEFM Demetrio Toledo",
+    "administration_type": 0,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "2809526",
+    "courses": [
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 8
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 10
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 6
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 14
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 115753,
+    "student_id": 1340415,
+    "school_id": 576,
+    "shift_id": 4,
+    "year": 2018,
+    "school": "Ecit Eneas Carvalho",
+    "administration_type": 0,
+    "grade_id": 38,
+    "grade": "Ciclo V"
+},
+{
+    "enrollment_id": "4545056",
+    "courses": [
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 14
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 15
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 3
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 8
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "8,7",
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 191519,
+    "student_id": 290651,
+    "school_id": 557,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "EEEFM Major Veneziano Vital do Rego",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "2512118",
+    "courses": [
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 8
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 6
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 11
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 14
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "5,5",
+            "final_result": "6,2",
+            "course_id": 9
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": "7,0",
+            "final_result": "5,7",
+            "course_id": 7
+        },
+        {
+            "name": "História",
+            "final_rating": "6,0",
+            "final_result": "6,3",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "6,0",
+            "final_result": "5,4",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 111997,
+    "student_id": 30052,
+    "school_id": 667,
+    "shift_id": 1,
+    "year": 2018,
+    "school": "Eci EEFM Professor Celestin Malzac",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "2196073",
+    "courses": [
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 6
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 3
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "0,0",
+            "final_result": "3,8",
+            "course_id": 9
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "4,8",
+            "final_result": "5,4",
+            "course_id": 2
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 8
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 10
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 14
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 75654,
+    "student_id": 503646,
+    "school_id": 94,
+    "shift_id": 2,
+    "year": 2017,
+    "school": "Eci EEM Monsenhor Jose Borges",
+    "administration_type": 0,
+    "grade_id": 6,
+    "grade": "3o. Ano"
+},
+{
+    "enrollment_id": "5310457",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 5
+        },
+        {
+            "name": "Línguas Estrangeiras",
+            "final_rating": "",
+            "final_result": "0,8",
+            "course_id": 373
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 12
+        }
+    ],
+    "school_class_id": 235368,
+    "student_id": 1702245,
+    "school_id": 3138,
+    "shift_id": 2,
+    "year": 2021,
+    "school": "Ciep Iii Dr Firmino Ayres Leite e Otto de S Quinho",
+    "administration_type": 1,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "3530765",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 4
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 688
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 6
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 8
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,7",
+            "course_id": 3
+        },
+        {
+            "name": "Competências Socioemocionais",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 1494
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 7
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 15
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 10
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 14
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 157409,
+    "student_id": 372251,
+    "school_id": 114,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "EEEFM Professor Joao Noberto",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "2806792",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "9,8",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 4
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 12
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 115653,
+    "student_id": 1344680,
+    "school_id": 305,
+    "shift_id": 2,
+    "year": 2018,
+    "school": "EEEF Nossa Senhora do Rosario",
+    "administration_type": 0,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "4347093",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 5
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 4
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 10
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 798
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 2
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 688
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 15
+        }
+    ],
+    "school_class_id": 198116,
+    "student_id": 45103,
+    "school_id": 383,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "EEEFM Major Jose Barbosa",
+    "administration_type": 0,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "4890463",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 5
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 12
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 11
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "9,4",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "9,6",
+            "course_id": 10
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 3
+        }
+    ],
+    "school_class_id": 215404,
+    "student_id": 1128875,
+    "school_id": 1943,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "E.M.E.F Padre Jose de Anchieta",
+    "administration_type": 1,
+    "grade_id": 7,
+    "grade": "4o. Ano"
+},
+{
+    "enrollment_id": "1875066",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 4
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 12
+        }
+    ],
+    "school_class_id": 74523,
+    "student_id": 413560,
+    "school_id": 962,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "EEEFM Everaldo Agra",
+    "administration_type": 0,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "3112056",
+    "courses": [
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 12
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Estrangeira",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 1059
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 5
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,4",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 2
+        }
+    ],
+    "school_class_id": 133438,
+    "student_id": 948013,
+    "school_id": 1513,
+    "shift_id": 2,
+    "year": 2018,
+    "school": "Emeif José Dias Guarita",
+    "administration_type": 1,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "5632068",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 15
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 16
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "9,2",
+            "course_id": 9
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "10,0",
+            "course_id": 6
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 689
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 2
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 558
+        },
+        {
+            "name": "Estudo Orientado",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 738
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 688
+        },
+        {
+            "name": "Colabore e Inove",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 1505
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 3
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "10,0",
+            "course_id": 10
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 7
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 4
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 13
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 14
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 556
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 11
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "9,1",
+            "course_id": 8
+        }
+    ],
+    "school_class_id": 244837,
+    "student_id": 869919,
+    "school_id": 230,
+    "shift_id": 3,
+    "year": 2021,
+    "school": "Eci EEFM Monsenhor Sebastiao Rabelo",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "1895063",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": "8,0",
+            "final_result": "5,5",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 16
+        },
+        {
+            "name": "Química",
+            "final_rating": "3,0",
+            "final_result": "4,6",
+            "course_id": 8
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "0",
+            "final_result": "3,4",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 15
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 6
+        },
+        {
+            "name": "Física",
+            "final_rating": "5,9",
+            "final_result": "5,0",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "6,0",
+            "final_result": "5,2",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 13
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "2,5",
+            "final_result": "3,3",
+            "course_id": 11
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "6,0",
+            "final_result": "5,6",
+            "course_id": 14
+        }
+    ],
+    "school_class_id": 74048,
+    "student_id": 647706,
+    "school_id": 440,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "Ecit Daura Santiago Rangel",
+    "administration_type": 0,
+    "grade_id": 5,
+    "grade": "2o. Ano"
+},
+{
+    "enrollment_id": "3450916",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 11
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 798
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 2
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 10
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "3,0",
+            "final_result": "5,2",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Emocional e Social",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 1488
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 155247,
+    "student_id": 984386,
+    "school_id": 693,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "Eci EEM João Cavalcante Sula",
+    "administration_type": 0,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "4673679",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 11
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 5
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 3
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 4
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 798
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 688
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 197334,
+    "student_id": 1506274,
+    "school_id": 871,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "EEEF Jose Leite",
+    "administration_type": 0,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "5319828",
+    "courses": [
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 6
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 11
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 13
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 4
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 14
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 3
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2
+        }
+    ],
+    "school_class_id": 248082,
+    "student_id": 719927,
+    "school_id": 214,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "EEEFM Prof Jose Baptista de Mello",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "5628934",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 5
+        }
+    ],
+    "school_class_id": 256018,
+    "student_id": 1536778,
+    "school_id": 2290,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "Emeif Professora Gerlânia Maria da Silva",
+    "administration_type": 1,
+    "grade_id": 6,
+    "grade": "3o. Ano"
+},
+{
+    "enrollment_id": "4370609",
+    "courses": [
+        {
+            "name": "Inovação Social e Científica",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 1136
+        },
+        {
+            "name": "Língua Estrangeira (Espanhol-Básico e Instrumental)",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 1545
+        },
+        {
+            "name": "Introdução à Informática e Arquitetura de Hardware",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 131
+        },
+        {
+            "name": "Higiene e Segurança do Trabalho",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 306
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Estrangeira (Inglês-Básico e instrumental)",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 1544
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 7
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 2
+        },
+        {
+            "name": "Linguagem de Programação II",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 1156
+        },
+        {
+            "name": "Linguagem de Programação I",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 1155
+        },
+        {
+            "name": "Informática Básica",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 61
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 4
+        },
+        {
+            "name": "Orientação de estudo",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 557
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 11
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 689
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 14
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "9,7",
+            "course_id": 6
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 556
+        },
+        {
+            "name": "Sistemas Operacionais II",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 182
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 8
+        },
+        {
+            "name": "Sistemas Operacionais I",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 178
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 558
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 13
+        }
+    ],
+    "school_class_id": 194216,
+    "student_id": 1642249,
+    "school_id": 4633,
+    "shift_id": 3,
+    "year": 2020,
+    "school": "Ecit Guarabira Dom Marcelo Pinto Carvalheira",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "2853181",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 10
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 114933,
+    "student_id": 1353176,
+    "school_id": 557,
+    "shift_id": 4,
+    "year": 2018,
+    "school": "EEEFM Major Veneziano Vital do Rego",
+    "administration_type": 0,
+    "grade_id": 36,
+    "grade": "Ciclo III"
+},
+{
+    "enrollment_id": "4835916",
+    "courses": [
+        {
+            "name": "Matemática",
+            "final_rating": "5,0",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Estrangeira – Espanhol e/ou Inglês",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 1992
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 5
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 16
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Estrangeira – Inglês e/ou Espanhol",
+            "final_rating": "8,7",
+            "final_result": "5,6",
+            "course_id": 1991
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": "8,8",
+            "final_result": "5,0",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 195018,
+    "student_id": 916698,
+    "school_id": 662,
+    "shift_id": 4,
+    "year": 2020,
+    "school": "EEEFM Ana Ferreira da Costa",
+    "administration_type": 0,
+    "grade_id": 37,
+    "grade": "Ciclo IV"
+},
+{
+    "enrollment_id": "3669936",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 11
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 688
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 3
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 6
+        },
+        {
+            "name": "Competências Socioemocionais",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 1494
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 2
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 7
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 8
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 13
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 15
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 14
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 152913,
+    "student_id": 320010,
+    "school_id": 824,
+    "shift_id": 2,
+    "year": 2019,
+    "school": "Instituto de Educacao da Paraiba (Iep)",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "2197256",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 15
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 8
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 10
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 6
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 7
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 16
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 9
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 13
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 4
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 14
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 79285,
+    "student_id": 428480,
+    "school_id": 704,
+    "shift_id": 4,
+    "year": 2017,
+    "school": "Eci Jose Gonçalves de Queiroz",
+    "administration_type": 0,
+    "grade_id": 6,
+    "grade": "3o. Ano"
+},
+{
+    "enrollment_id": "5119420",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 5
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 15
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 232759,
+    "student_id": 1025465,
+    "school_id": 1288,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "E M e F Antonia Luna Lisboa",
+    "administration_type": 1,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "2868486",
+    "courses": [
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 8
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "7,6",
+            "final_result": "5,0",
+            "course_id": 2
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 14
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "9,1",
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 10
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 6
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 16
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "4,0",
+            "final_result": "5,2",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 3
+        }
+    ],
+    "school_class_id": 123618,
+    "student_id": 469849,
+    "school_id": 262,
+    "shift_id": 2,
+    "year": 2018,
+    "school": "EEEFM Irineu Joffily",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "4724490",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 11
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 6
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 4
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,4",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Estrangeira – Inglês e/ou Espanhol",
+            "final_rating": "",
+            "final_result": "9,3",
+            "course_id": 1991
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 14
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 10
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 3
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Estrangeira – Espanhol e/ou Inglês",
+            "final_rating": "",
+            "final_result": "9,4",
+            "course_id": 1992
+        }
+    ],
+    "school_class_id": 212469,
+    "student_id": 1650616,
+    "school_id": 704,
+    "shift_id": 4,
+    "year": 2020,
+    "school": "Eci Jose Gonçalves de Queiroz",
+    "administration_type": 0,
+    "grade_id": 38,
+    "grade": "Ciclo V"
+},
+{
+    "enrollment_id": "4476523",
+    "courses": [
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 689
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 688
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "9,4",
+            "course_id": 15
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,9",
+            "course_id": 14
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,9",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 2
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 16
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 4
+        },
+        {
+            "name": "Orientação de estudo",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 557
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 556
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "9,6",
+            "course_id": 8
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 558
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "9,4",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 3
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 193623,
+    "student_id": 564892,
+    "school_id": 9,
+    "shift_id": 3,
+    "year": 2020,
+    "school": "Ecit Monsenhor José Borges de Carvalho",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "2999716",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 125136,
+    "student_id": 1380336,
+    "school_id": 666,
+    "shift_id": 4,
+    "year": 2018,
+    "school": "EEEF Prof Adelia de Franca",
+    "administration_type": 0,
+    "grade_id": 35,
+    "grade": "Ciclo II"
+},
+{
+    "enrollment_id": "4654139",
+    "courses": [
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 7
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 13
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 6
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 2
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 3
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "9,1",
+            "course_id": 4
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 8
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 10
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 14
+        }
+    ],
+    "school_class_id": 192189,
+    "student_id": 403259,
+    "school_id": 278,
+    "shift_id": 2,
+    "year": 2020,
+    "school": "EEEF Jardilina Cruz Pereira",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "5514494",
+    "courses": [
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 689
+        },
+        {
+            "name": "Ciências/Biologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2031
+        }
+    ],
+    "school_class_id": 250002,
+    "student_id": 1653396,
+    "school_id": 586,
+    "shift_id": 3,
+    "year": 2021,
+    "school": "Ecit Francisca Martiniano da Rocha",
+    "administration_type": 0,
+    "grade_id": 37,
+    "grade": "Ciclo IV"
+},
+{
+    "enrollment_id": "1635062",
+    "courses": [
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 8
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 6
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 11
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 4
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 14
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 15
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,2",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 71577,
+    "student_id": 670360,
+    "school_id": 912,
+    "shift_id": 2,
+    "year": 2017,
+    "school": "EEEFM Arlindo Ramalho",
+    "administration_type": 0,
+    "grade_id": 5,
+    "grade": "2o. Ano"
+},
+{
+    "enrollment_id": "4747068",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 11
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 12
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "6,0",
+            "final_result": "5,9",
+            "course_id": 2
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 3
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "8,0",
+            "final_result": "6,6",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 213456,
+    "student_id": 1144822,
+    "school_id": 4647,
+    "shift_id": 2,
+    "year": 2020,
+    "school": "Centro Educacional Odete Maciel Firmo",
+    "administration_type": 1,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "3994687",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 15
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "3,5",
+            "final_result": "5,1",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": "6,0",
+            "final_result": "6,5",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 4
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 798
+        },
+        {
+            "name": "Educação Emocional e Social",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 1488
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "4,0",
+            "final_result": "5,7",
+            "course_id": 5
+        }
+    ],
+    "school_class_id": 175718,
+    "student_id": 1565135,
+    "school_id": 2875,
+    "shift_id": 2,
+    "year": 2019,
+    "school": "Emef Flaviano Ribeiro Coutinho",
+    "administration_type": 1,
+    "grade_id": 12,
+    "grade": "9o. Ano"
+},
+{
+    "enrollment_id": "5596388",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 10
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 255911,
+    "student_id": 1676954,
+    "school_id": 247,
+    "shift_id": 4,
+    "year": 2021,
+    "school": "EEEF Prof Cardoso",
+    "administration_type": 0,
+    "grade_id": 37,
+    "grade": "Ciclo IV"
+},
+{
+    "enrollment_id": "4681029",
+    "courses": [
+        {
+            "name": "Gestão e Fundamentos de Laboratório",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 751
+        },
+        {
+            "name": "Bioquímica I",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 1140
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "9,8",
+            "course_id": 3
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 9
+        },
+        {
+            "name": "Informática Básica",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 61
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 6
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": "",
+            "final_result": "9,4",
+            "course_id": 558
+        },
+        {
+            "name": "Anatomia e Fisiologia Humana",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 750
+        },
+        {
+            "name": "Higiene e Segurança do Trabalho",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 306
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Estrangeira (Espanhol-Básico e Instrumental)",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 1545
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 689
+        },
+        {
+            "name": "Bacteriologia I",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 476
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 4
+        },
+        {
+            "name": "Inovação Social e Científica",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 1136
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 556
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 8
+        },
+        {
+            "name": "Orientação de estudo",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 557
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 14
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,7",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 10
+        },
+        {
+            "name": "Biossegurança e Primeiros Socorros",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 753
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 7
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Estrangeira (Inglês-Básico e instrumental)",
+            "final_rating": null,
+            "final_result": "9,2",
+            "course_id": 1544
+        }
+    ],
+    "school_class_id": 196031,
+    "student_id": 906591,
+    "school_id": 292,
+    "shift_id": 3,
+    "year": 2020,
+    "school": "Eci Professor Lordao",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "4544916",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 4
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 13
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 7
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 14
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 10
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 15
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 6
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 2
+        }
+    ],
+    "school_class_id": 191248,
+    "student_id": 1504973,
+    "school_id": 663,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "EEEM Con Luiz Gonzaga de Oliveira",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "4874437",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 3
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 12
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 216563,
+    "student_id": 1398499,
+    "school_id": 2709,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "Emeif Manoel Pereira",
+    "administration_type": 1,
+    "grade_id": 13,
+    "grade": "Multi"
+},
+{
+    "enrollment_id": "2448579",
+    "courses": [
+        {
+            "name": "Filosofia",
+            "final_rating": "6,0",
+            "final_result": "4,5",
+            "course_id": 13
+        },
+        {
+            "name": "História",
+            "final_rating": "10,0",
+            "final_result": "7,4",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "5,0",
+            "final_result": "5,8",
+            "course_id": 2
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "5,0",
+            "final_result": "7,0",
+            "course_id": 14
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 4
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 15
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 7
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 3
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "4,2",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "6,0",
+            "final_result": "7,5",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 16
+        },
+        {
+            "name": "Química",
+            "final_rating": "6,0",
+            "final_result": "4,5",
+            "course_id": 8
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 67905,
+    "student_id": 819497,
+    "school_id": 764,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "EEEFM Joao de Oliveira Chaves",
+    "administration_type": 0,
+    "grade_id": 6,
+    "grade": "3o. Ano"
+},
+{
+    "enrollment_id": "1804756",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": "7,0",
+            "final_result": "6,9",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "7,0",
+            "final_result": "6,2",
+            "course_id": 11
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "5,2",
+            "final_result": "5,6",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "3,6",
+            "final_result": "5,0",
+            "course_id": 3
+        },
+        {
+            "name": "Arte",
+            "final_rating": "5,8",
+            "final_result": "5,7",
+            "course_id": 4
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 12
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "5,0",
+            "final_result": "5,0",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "5,0",
+            "final_result": "5,6",
+            "course_id": 15
+        }
+    ],
+    "school_class_id": 67162,
+    "student_id": 660943,
+    "school_id": 891,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "EEEF Batista Leite",
+    "administration_type": 0,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "2831348",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "1,7",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 15
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 14
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "0,0",
+            "final_result": "1,6",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "2,3",
+            "course_id": 10
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 7
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 13
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "1,6",
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "3,5",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "0,0",
+            "course_id": 16
+        },
+        {
+            "name": "Química",
+            "final_rating": "0,0",
+            "final_result": "1,1",
+            "course_id": 8
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 3
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 6
+        }
+    ],
+    "school_class_id": 113962,
+    "student_id": 775722,
+    "school_id": 167,
+    "shift_id": 1,
+    "year": 2018,
+    "school": "EEEFM Mons Constantino Vieira",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "3981671",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 9
+        },
+        {
+            "name": "Educação Emocional e Social",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 1488
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,9",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 10
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 12
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 5
+        },
+        {
+            "name": "Redação",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 1486
+        }
+    ],
+    "school_class_id": 175022,
+    "student_id": 1032076,
+    "school_id": 1513,
+    "shift_id": 2,
+    "year": 2019,
+    "school": "Emeif José Dias Guarita",
+    "administration_type": 1,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "5476323",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "9,2",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 11
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 14
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 558
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,5",
+            "course_id": 13
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 6
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 556
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 9
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 8
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 689
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 7
+        }
+    ],
+    "school_class_id": 246745,
+    "student_id": 683852,
+    "school_id": 705,
+    "shift_id": 3,
+    "year": 2021,
+    "school": "Eci EEM Manoel Avelino Paiva",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "1862009",
+    "courses": [
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 16
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 13
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "6,0",
+            "final_result": "6,3",
+            "course_id": 14
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 6
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 8
+        },
+        {
+            "name": "Física",
+            "final_rating": "3,5",
+            "final_result": "5,0",
+            "course_id": 7
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "5,1",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 4
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 15
+        }
+    ],
+    "school_class_id": 79692,
+    "student_id": 37643,
+    "school_id": 996,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "Ecit Elpidio de Almeida",
+    "administration_type": 0,
+    "grade_id": 4,
+    "grade": "1o. Ano"
+},
+{
+    "enrollment_id": "2875711",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "5,0",
+            "final_result": "5,2",
+            "course_id": 2
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 12
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "3,5",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": "6,0",
+            "final_result": "6,4",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,1",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 15
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "6,0",
+            "final_result": "5,3",
+            "course_id": 5
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 3
+        }
+    ],
+    "school_class_id": 121729,
+    "student_id": 1356638,
+    "school_id": 2004,
+    "shift_id": 1,
+    "year": 2018,
+    "school": "Emef Judith Barbosa de Paula Rego",
+    "administration_type": 1,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "5594658",
+    "courses": [
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 16
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "9,0",
+            "course_id": 8
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 6
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 15
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 13
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 4
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 7
+        },
+        {
+            "name": "Produção Textual",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 2019
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 3
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 14
+        }
+    ],
+    "school_class_id": 245214,
+    "student_id": 1388562,
+    "school_id": 621,
+    "shift_id": 1,
+    "year": 2021,
+    "school": "EEEF Miguel Santa Cruz",
+    "administration_type": 0,
+    "grade_id": 16,
+    "grade": "3a. Série"
+},
+{
+    "enrollment_id": "3982564",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": "7,0",
+            "final_result": "6,2",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 3
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 5
+        },
+        {
+            "name": "Artes visuais",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 1191
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 15
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 12
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "6,0",
+            "final_result": "6,5",
+            "course_id": 9
+        }
+    ],
+    "school_class_id": 174991,
+    "student_id": 1023804,
+    "school_id": 1598,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "Emef Henrique de Almeida",
+    "administration_type": 1,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "4770951",
+    "courses": [
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 14
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 13
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 11
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Estrangeira – Inglês e/ou Espanhol",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 1991
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 2
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 6
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 3
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Estrangeira – Espanhol e/ou Inglês",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 1992
+        }
+    ],
+    "school_class_id": 212899,
+    "student_id": 690205,
+    "school_id": 422,
+    "shift_id": 4,
+    "year": 2020,
+    "school": "Eci Padre Ibiapina",
+    "administration_type": 0,
+    "grade_id": 39,
+    "grade": "Ciclo VI"
+},
+{
+    "enrollment_id": "4266339",
+    "courses": [
+        {
+            "name": "Matemática",
+            "final_rating": "4,5",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "8,1",
+            "course_id": 4
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "8,2",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 15
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 798
+        },
+        {
+            "name": "Educação Emocional e Social",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 1488
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "4,2",
+            "final_result": "5,8",
+            "course_id": 2
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "7,4",
+            "course_id": 5
+        }
+    ],
+    "school_class_id": 149341,
+    "student_id": 1632063,
+    "school_id": 334,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "EEEFM Poeta Carlos Drumond de Andrade",
+    "administration_type": 0,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "3046595",
+    "courses": [
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "8,6",
+            "course_id": 12
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 9
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 2
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,7",
+            "course_id": 11
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 128366,
+    "student_id": 916457,
+    "school_id": 2765,
+    "shift_id": 2,
+    "year": 2018,
+    "school": "Emef João Alves",
+    "administration_type": 1,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "3654874",
+    "courses": [
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "8,2",
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "9,1",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,8",
+            "course_id": 15
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "9,2",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 4
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "9,3",
+            "course_id": 5
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "9,8",
+            "course_id": 12
+        }
+    ],
+    "school_class_id": 160972,
+    "student_id": 879806,
+    "school_id": 2043,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "E.M.E.I.E.F. Maria Dulce dos Santos",
+    "administration_type": 1,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "5410921",
+    "courses": [
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 4
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 3
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 15
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 14
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 10
+        }
+    ],
+    "school_class_id": 245897,
+    "student_id": 1237561,
+    "school_id": 260,
+    "shift_id": 4,
+    "year": 2021,
+    "school": "Eci EEM Antônio Avelino de Almeida",
+    "administration_type": 0,
+    "grade_id": 39,
+    "grade": "Ciclo VI"
+},
+{
+    "enrollment_id": "3791208",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "8,5",
+            "course_id": 4
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 12
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 11
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 2
+        }
+    ],
+    "school_class_id": 166828,
+    "student_id": 1026199,
+    "school_id": 2583,
+    "shift_id": 2,
+    "year": 2019,
+    "school": "Escola Municipal de Ensino Fundamental Francisco Chaves Ventura",
+    "administration_type": 1,
+    "grade_id": 8,
+    "grade": "5o. Ano"
+},
+{
+    "enrollment_id": "4969639",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 15
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 2
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 3
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 12
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,6",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 224176,
+    "student_id": 1442747,
+    "school_id": 2369,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "Emef Maurino Rodrigues de Andrade",
+    "administration_type": 1,
+    "grade_id": 11,
+    "grade": "8o. Ano"
+},
+{
+    "enrollment_id": "5542231",
+    "courses": [
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "10,0",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 15
+        },
+        {
+            "name": "Manutenção de Computadores",
+            "final_rating": "",
+            "final_result": "9,3",
+            "course_id": 548
+        },
+        {
+            "name": "Informáfica Aplicada",
+            "final_rating": "",
+            "final_result": "9,3",
+            "course_id": 376
+        },
+        {
+            "name": "Programas Aplicativos (Word, Excel, PowerPoint)",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 545
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 2
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 13
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "9,1",
+            "course_id": 6
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "8,8",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 16
+        },
+        {
+            "name": "Ética Profissional e Relações Interpessoais",
+            "final_rating": "",
+            "final_result": "9,3",
+            "course_id": 98
+        },
+        {
+            "name": "Desenvolvimento de Websites I (HTML e CSS)",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 546
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "10,0",
+            "course_id": 10
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "9,8",
+            "course_id": 11
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "10,0",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 9
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 14
+        },
+        {
+            "name": "Lógica de Programação \"C\"",
+            "final_rating": "",
+            "final_result": "9,7",
+            "course_id": 529
+        },
+        {
+            "name": "Segurança e Higiene no Trabalho",
+            "final_rating": "",
+            "final_result": "8,3",
+            "course_id": 123
+        },
+        {
+            "name": "Gestão de Sistemas Operacionais",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 544
+        }
+    ],
+    "school_class_id": 257033,
+    "student_id": 249961,
+    "school_id": 878,
+    "shift_id": 3,
+    "year": 2021,
+    "school": "Cpm-Estudante Rebeca Cristina Alves Simões",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "3497760",
+    "courses": [
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 14
+        },
+        {
+            "name": "Competências Socioemocionais",
+            "final_rating": "",
+            "final_result": "8,4",
+            "course_id": 1494
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,9",
+            "course_id": 3
+        },
+        {
+            "name": "Nivelamento Matemática",
+            "final_rating": null,
+            "final_result": "7,4",
+            "course_id": 1487
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 9
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 688
+        },
+        {
+            "name": "Biologia",
+            "final_rating": null,
+            "final_result": "8,4",
+            "course_id": 6
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 2
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 7
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 10
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 8
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,1",
+            "course_id": 13
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "8,9",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,7",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 152151,
+    "student_id": 420478,
+    "school_id": 1185,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "EEEFM Tereza Alves de Moura",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "4632772",
+    "courses": [
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 13
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 7
+        },
+        {
+            "name": "Química",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 2
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 14
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 3
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 191404,
+    "student_id": 1405608,
+    "school_id": 628,
+    "shift_id": 1,
+    "year": 2020,
+    "school": "Centro Profis Dep Antonio Cabral",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "2488855",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 15
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "3,5",
+            "final_result": "5,2",
+            "course_id": 6
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "8,1",
+            "course_id": 13
+        },
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 689
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 556
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "9,5",
+            "course_id": 3
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 8
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,6",
+            "course_id": 11
+        },
+        {
+            "name": "Avaliação Semanal",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 558
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 4
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "6,0",
+            "final_result": "6,0",
+            "course_id": 14
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 9
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": "",
+            "final_result": "7,3",
+            "course_id": 688
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,1",
+            "course_id": 2
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "6,0",
+            "final_result": "6,4",
+            "course_id": 16
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 10
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 7
+        }
+    ],
+    "school_class_id": 110919,
+    "student_id": 505175,
+    "school_id": 857,
+    "shift_id": 3,
+    "year": 2018,
+    "school": "Eci Severino Cabral",
+    "administration_type": 0,
+    "grade_id": 15,
+    "grade": "2a. Série"
+},
+{
+    "enrollment_id": "4468094",
+    "courses": [
+        {
+            "name": "Ciências",
+            "final_rating": "",
+            "final_result": "4,0",
+            "course_id": 5
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,2",
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 4
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": "",
+            "final_result": "4,0",
+            "course_id": 688
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "3,8",
+            "course_id": 15
+        },
+        {
+            "name": "Ciências das Religiões",
+            "final_rating": "",
+            "final_result": "7,5",
+            "course_id": 798
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "7,9",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 197484,
+    "student_id": 944211,
+    "school_id": 636,
+    "shift_id": 2,
+    "year": 2020,
+    "school": "EEEF Pe Geraldo da S Pinto",
+    "administration_type": 0,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "3933262",
+    "courses": [
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 4
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 2
+        },
+        {
+            "name": "Matemática",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 9
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 5
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 15
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 171633,
+    "student_id": 871129,
+    "school_id": 2457,
+    "shift_id": 1,
+    "year": 2019,
+    "school": "Colegio Municipal Padre Galvao",
+    "administration_type": 1,
+    "grade_id": 10,
+    "grade": "7o. Ano"
+},
+{
+    "enrollment_id": "4599721",
+    "courses": [
+        {
+            "name": "Disciplinas Eletivas",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 689
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "5,0",
+            "final_result": "5,1",
+            "course_id": 2
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": "8,0",
+            "course_id": 11
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "5,0",
+            "final_result": "5,0",
+            "course_id": 15
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "5,0",
+            "final_result": "5,0",
+            "course_id": 9
+        },
+        {
+            "name": "Práticas Experimentais",
+            "final_rating": "10,0",
+            "final_result": "5,6",
+            "course_id": 688
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 12
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "10,0",
+            "final_result": "5,4",
+            "course_id": 5
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 16
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 4
+        }
+    ],
+    "school_class_id": 194586,
+    "student_id": 170880,
+    "school_id": 669,
+    "shift_id": 3,
+    "year": 2020,
+    "school": "Eci Olivio Pinto",
+    "administration_type": 0,
+    "grade_id": 12,
+    "grade": "9o. Ano"
+},
+{
+    "enrollment_id": "2973700",
+    "courses": [
+        {
+            "name": "História de Princesa",
+            "final_rating": null,
+            "final_result": "7,8",
+            "course_id": 786
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "7,7",
+            "course_id": 9
+        },
+        {
+            "name": "Ciências",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 2
+        },
+        {
+            "name": "Línguas Estrangeiras",
+            "final_rating": null,
+            "final_result": "7,5",
+            "course_id": 373
+        },
+        {
+            "name": "Ensino Religioso",
+            "final_rating": null,
+            "final_result": "8,3",
+            "course_id": 12
+        },
+        {
+            "name": "História",
+            "final_rating": null,
+            "final_result": "7,9",
+            "course_id": 10
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "7,7",
+            "course_id": 3
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 122170,
+    "student_id": 1050235,
+    "school_id": 1314,
+    "shift_id": 1,
+    "year": 2018,
+    "school": "Emef Carlos Alberto Medeiros Sobreira Duarte",
+    "administration_type": 1,
+    "grade_id": 9,
+    "grade": "6o. Ano"
+},
+{
+    "enrollment_id": "2306136",
+    "courses": [
+        {
+            "name": "Educação Física",
+            "final_rating": "",
+            "final_result": "2,4",
+            "course_id": 3
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 14
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "2,1",
+            "course_id": 6
+        },
+        {
+            "name": "História",
+            "final_rating": "",
+            "final_result": "0,9",
+            "course_id": 10
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 2
+        },
+        {
+            "name": "Arte",
+            "final_rating": "",
+            "final_result": "1,2",
+            "course_id": 4
+        },
+        {
+            "name": "Física",
+            "final_rating": "",
+            "final_result": "1,5",
+            "course_id": 7
+        },
+        {
+            "name": "Química",
+            "final_rating": "",
+            "final_result": "1,4",
+            "course_id": 8
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "",
+            "final_result": "0,4",
+            "course_id": 9
+        },
+        {
+            "name": "Geografia",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 11
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": "",
+            "final_result": "1,7",
+            "course_id": 13
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "1,2",
+            "course_id": 15
+        }
+    ],
+    "school_class_id": 72997,
+    "student_id": 1259328,
+    "school_id": 224,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "Eci Anesio Leao",
+    "administration_type": 0,
+    "grade_id": 5,
+    "grade": "2o. Ano"
+},
+{
+    "enrollment_id": "4232006",
+    "courses": [
+        {
+            "name": "Língua Inglesa",
+            "final_rating": null,
+            "final_result": "7,6",
+            "course_id": 15
+        },
+        {
+            "name": "Arte",
+            "final_rating": null,
+            "final_result": "7,3",
+            "course_id": 4
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "10,0",
+            "final_result": "6,9",
+            "course_id": 11
+        },
+        {
+            "name": "História",
+            "final_rating": "8,0",
+            "final_result": "5,7",
+            "course_id": 10
+        },
+        {
+            "name": "Filosofia",
+            "final_rating": null,
+            "final_result": "7,0",
+            "course_id": 13
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "1,5",
+            "final_result": "3,7",
+            "course_id": 9
+        },
+        {
+            "name": "Sociologia",
+            "final_rating": "",
+            "final_result": "7,0",
+            "course_id": 14
+        },
+        {
+            "name": "Física",
+            "final_rating": "10,0",
+            "final_result": "7,5",
+            "course_id": 7
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "6,0",
+            "final_result": "5,3",
+            "course_id": 2
+        },
+        {
+            "name": "Projeto de Vida",
+            "final_rating": null,
+            "final_result": null,
+            "course_id": 556
+        },
+        {
+            "name": "Biologia",
+            "final_rating": "",
+            "final_result": "7,2",
+            "course_id": 6
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": "3,3",
+            "final_result": "5,0",
+            "course_id": 3
+        },
+        {
+            "name": "Química",
+            "final_rating": "9,0",
+            "final_result": "6,8",
+            "course_id": 8
+        },
+        {
+            "name": "Língua Espanhola",
+            "final_rating": "8,8",
+            "final_result": "5,3",
+            "course_id": 16
+        }
+    ],
+    "school_class_id": 157124,
+    "student_id": 1625541,
+    "school_id": 104,
+    "shift_id": 3,
+    "year": 2019,
+    "school": "Eci Irineu Pinto",
+    "administration_type": 0,
+    "grade_id": 14,
+    "grade": "1a. Série"
+},
+{
+    "enrollment_id": "2092389",
+    "courses": [
+        {
+            "name": "Ensino Religioso",
+            "final_rating": "",
+            "final_result": "8,5",
+            "course_id": 12
+        },
+        {
+            "name": "História",
+            "final_rating": "6,8",
+            "final_result": "5,1",
+            "course_id": 10
+        },
+        {
+            "name": "Arte",
+            "final_rating": "6,0",
+            "final_result": "5,9",
+            "course_id": 4
+        },
+        {
+            "name": "Matemática",
+            "final_rating": "4,5",
+            "final_result": "5,3",
+            "course_id": 9
+        },
+        {
+            "name": "Ciências",
+            "final_rating": "8,0",
+            "final_result": "6,4",
+            "course_id": 5
+        },
+        {
+            "name": "Língua Portuguesa",
+            "final_rating": "4,7",
+            "final_result": "5,5",
+            "course_id": 2
+        },
+        {
+            "name": "Educação Física",
+            "final_rating": null,
+            "final_result": "9,0",
+            "course_id": 3
+        },
+        {
+            "name": "Língua Inglesa",
+            "final_rating": "",
+            "final_result": "7,8",
+            "course_id": 15
+        },
+        {
+            "name": "Geografia",
+            "final_rating": "",
+            "final_result": "8,0",
+            "course_id": 11
+        }
+    ],
+    "school_class_id": 75355,
+    "student_id": 598922,
+    "school_id": 1012,
+    "shift_id": 1,
+    "year": 2017,
+    "school": "Eci Felix Araujo",
+    "administration_type": 0,
+    "grade_id": 12,
+    "grade": "9o. Ano"
+}
+]
